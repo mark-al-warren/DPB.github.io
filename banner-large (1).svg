@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3416px" height="973px" viewBox="0 0 3416 973" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="49.3980809%" x2="-3.269196%" y2="53.5479317%" id="linearGradient-1">
+            <stop stop-color="#044E45" offset="0%"></stop>
+            <stop stop-color="#184148" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="T1---Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Screen-Example" transform="translate(0.000000, -172.000000)">
+            <g id="Group-3" transform="translate(-12.000000, 172.000000)">
+                <polygon id="Rectangle" fill="#E7F6FC" transform="translate(2214.000000, 481.268966) scale(-1, 1) translate(-2214.000000, -481.268966) " points="1000 10.0689953 3428 10 3428 306 1000 952.537932"></polygon>
+                <polygon id="Rectangle" fill="url(#linearGradient-1)" points="5.44328471e-12 7.87148124e-13 3560 1.1882717e-12 2440 326 12 973"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

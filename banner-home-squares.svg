@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="498px" height="276px" viewBox="0 0 498 276" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="T1---Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-759.000000, -269.000000)" fill="#B4DEF0" id="Group-11">
+            <g transform="translate(759.000000, 264.000000)">
+                <g id="Group-10" opacity="0.17" transform="translate(446.500000, 11.000000) rotate(-39.000000) translate(-446.500000, -11.000000) translate(439.000000, 4.000000)">
+                    <rect id="Rectangle" x="6" y="0" width="3.5" height="14" rx="1.75"></rect>
+                    <rect id="Rectangle" transform="translate(7.750000, 7.000000) rotate(-90.000000) translate(-7.750000, -7.000000) " x="6" y="0" width="3.5" height="14" rx="1.75"></rect>
+                </g>
+                <rect id="Rectangle" fill-rule="nonzero" opacity="0.17" x="0" y="275" width="6" height="6"></rect>
+                <rect id="Rectangle" fill-rule="nonzero" opacity="0.168061756" x="484" y="232" width="14" height="14"></rect>
+                <rect id="Rectangle" fill-rule="nonzero" opacity="0.168061756" transform="translate(30.000000, 16.000000) rotate(20.000000) translate(-30.000000, -16.000000) " x="23" y="9" width="14" height="14"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
